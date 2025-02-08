@@ -13,8 +13,10 @@
             body{background-color: aliceblue;
                 font-family: lato;
         }
-        .image{
-        height: 40%;
-        display: flex; justify-content: left;
+
+        img {
+           height: 300px;
+           width: auto;
+/*         display: flex; justify-content: left; */
 
         }
